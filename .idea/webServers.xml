@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f330dd29-5b10-4adf-ab5e-eaacebfb1c7d" name="pi@paludarium.home.arpa:22 agent">
+        <fileTransfer rootFolder="/home/pi" accessType="SFTP" host="paludarium.home.arpa" port="22" sshConfigId="0fe46f12-6ec3-4444-914e-db86e9765280" sshConfig="pi@paludarium.home.arpa:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
